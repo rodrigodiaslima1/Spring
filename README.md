@@ -15,10 +15,10 @@
 <br>
 Feel free to use any code available here.
 
-If it makes sense to you, please, follow my work:
-- <a href="https://www.tvvvvc.com/" ><em>Tvc Computers Website</em></a>
+If it makes sense to you, please, follow my work at:
 - <a href="https://www.youtube.com/channel/UCa7HpkUTNYhTpWNXb7VX-pg" ><em>Youtube: this.channel()</em></a>
-- <a href="https://www.instagram.com/tvc_computers/" ><em>Instagram</em></a>
+- <a href="https://www.tvvvvc.com/" ><em>Tvc Computers Website</em></a>
+- <a href="https://www.instagram.com/tvc_computers/" ><em>Tvc Computers Instagram</em></a>
 
 <h4><em>Type Voracious Code!</em></h4>
 <h4>Rodrigo Dias Lima</h4>
